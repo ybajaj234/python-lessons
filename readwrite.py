@@ -3,3 +3,5 @@ with open ("name.txt") as f:
 with open('output/hello.txt', 'w+') as f:
     f.write('hello, hello my name is')
     f.write(my_name)
+import csv
+
